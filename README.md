@@ -13,7 +13,7 @@ A cinematic, scroll-driven AI automation landing page built with React, TypeScri
 [![pnpm](https://img.shields.io/badge/pnpm-11-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
 
 </div>
-
+-----
 ---
 
 ## Overview
